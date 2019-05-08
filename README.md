@@ -4,3 +4,13 @@
 ----tumax---
 
 ![ad](https://github.com/Zr3Lm9Yh/About-me/blob/master/%E5%B8%8C%E6%9C%9B%E9%82%A3%E6%97%B6%E7%9A%84%E6%88%91.png)
+
+
+
+---tu1---
+![ad](https://github.com/Zr3Lm9Yh/About-me/blob/master/%E6%85%A2%E6%85%A2%E6%80%BB%E7%BB%931.png)
+
+
+
+---tu2---
+![ad](https://github.com/Zr3Lm9Yh/About-me/blob/master/%E6%85%A2%E6%85%A2%E6%80%BB%E7%BB%932.png)
